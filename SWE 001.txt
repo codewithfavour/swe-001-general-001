@@ -1,0 +1,29 @@
+***Software Engineer***
+
+<!-- A software engineer is a person who applies the principles of software engineering to the design, development, maintenance, testing, and evaluation of the software that make computers or other devices containing software work 
+In programming, or coding, software engineers instruct a computer, line by line, how to perform a desired function. Software engineers must possess strong programming skills, but are often more concerned with developing algorithms and analyzing and solving programming problems than with actually writing code. 
+-->
+
+***Its Usefulness***
+
+<!-- 
+	/* Software engineers develops computer application Softwares*/
+	/* Software engineers develops computer systems Softwares*/
+	/* Software engineers develops system softwares*/
+-->
+
+
+***Software engineers develops computer application Softwares***
+
+Computer applications software engineers analyze user needs and design, construct, and maintain general computer applications software or specialized utility programs. These engineers use different programming languages, depending on the purpose of the program.
+
+
+
+***Software engineers develops computer systems Softwares***
+
+Computer systems software engineers coordinate the construction and maintenance of a company's computer systems and plan their future growth. Working with the company, they coordinate each department's computer needs - such as ordering, inventory, billing, and payroll recordkeeping.
+
+
+
+*** Software engineers develops system softwares***
+ystems software engineers work for companies that configure, implement, and install complete computer systems. These engineers may be members of the marketing or sales staff, serving as the primary technical resource for sales workers and customers.
