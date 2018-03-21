@@ -1,0 +1,14 @@
+Software Engineering is an engineering discipline of study which deals with the application of systemic principles and approach to the development and management of software.
+
+This involves the application of scientific methods to practical purpose of design, analysis or operation of structure, machines or systems.
+
+Due to the high level of advancement in technology all around the world, the usefulness of software engineering cannot be over-emphasized. Software Engineering is virtually useful in all sectors/discipline of life, country and world at large. These sectors where software engineering is useful include:
+
+i.	Education: Software Engineering has caused a major revolution in the education system in that institutions under this sector are digitalizing almost all processes in the system. Many Information systems/application has been and are still being developed to ease the already existing manual processes.
+ii.	Health: Software engineering has brought about revolution in the technologies used in this sector. The devices both sophisticated and non-sophisticated are driven by software and/or programmed chips with are products of software engineering
+iii.	Business/Enterprises
+iv.	Government
+v.	Industries
+vi.	Domestic et.c
+
+Software Engineering is useful in very many ways which I may not have pointed out here.
