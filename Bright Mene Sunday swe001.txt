@@ -24,7 +24,7 @@ Any project that decrease cost and requires less time always helps to increase c
 In software engineering, proper care of software productivity is taken because it has testing system at every level.
 If programs fails to meet its standard at any stage, then programmers always improves the code of software to make it sure that software maintains its standards.
 
-4. Handling big projects
+4. Handling big projects.
 
 Big projects are not made in few days and they require lots of patience, planning and management. 
 And to invest six and seven months of any company, it requires lots of planning, direction, testing and maintenance. 
