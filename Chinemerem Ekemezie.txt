@@ -1,0 +1,6 @@
+Software Engineering is an aspect of engineering that makes use of various principles, patterns and processes in the development, operation, and maintenance of software.
+Importance
+- Code will become easy to maintain.
+- It provides us with the analytical examination skills to identify what a specific software requires (libraries, platform, architecture, etc.) before the first line of code is written.
+ -   It allows us to translate end user requirements written in plain English to software requirements in technical terms and also communicate technical advantages or limitations to end user.
+-being a problem solver that is able to find and use all tools to solve the end user problem
